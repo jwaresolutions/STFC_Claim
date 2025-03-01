@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Automatically clicks the Claim and DONE buttons
 // @author       Jwaresolutions
+// @require      https://raw.githubusercontent.com/jwaresolutions/STFC_Claim/refs/heads/mainline/STFCClaim.js
 // @match        https://home.startrekfleetcommand.com/store
 // @grant        none
 // ==/UserScript==
